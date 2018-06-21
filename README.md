@@ -56,18 +56,6 @@ wanted to add specific types of sushi, for instance, we could put a list inside 
 `sushi` list item:
 
 ```HTML
-<ul>
-  <li>Cheeseburgers</li>
-  <li>Grilled Cheese</li>
-  <li>Sushi
-    <ul>
-      <li>Spicy Salmon Roll</li>
-      <li>Alaskan Roll</li>
-      <li>Shrimp Tempura Roll</li>
-    </ul>
-  </li>
-  <li>Nacho Cheese French Fries</li>
-</ul>
 ```
 
 #### Task
